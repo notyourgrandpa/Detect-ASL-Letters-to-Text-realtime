@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_q.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\q.mp4"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-merged_res-50:/raw_cat.mp4.flat",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-52:/raw/cat.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_no.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\no.mp4"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-merged_res-50:/raw_eat.mp4.flat",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-52:/raw/eat.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_f.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\f.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_m.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\m.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_x.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\x.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable-v24_tfl_logo.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable-v24\\tfl_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_b.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\b.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_mother.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\mother.mp4"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-merged_res-50:/raw_o.mp4.flat",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-52:/raw/o.mp4"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-merged_res-50:/raw_nicetomeetyou.mp4.flat",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-52:/raw/nicetomeetyou.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_yes.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\yes.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_n.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\n.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_i.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\i.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_dropdown_24.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\dropdown_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_u.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\u.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-merged_res-50:/raw_thankyou.mp4.flat",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-52:/raw/thankyou.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-pngs-45:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_y.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\y.mp4"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-merged_res-50:/raw_bathroom.mp4.flat",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-52:/raw/bathroom.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_mic.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_r.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\r.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_assignment_24.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\assignment_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_l.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\l.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_please.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\please.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_v.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\v.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_e.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\e.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_o.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\o.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_me.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\me.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_father.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\father.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_h.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\h.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_a.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\a.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_delete.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\delete.mp4"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-merged_res-50:/raw_dog.mp4.flat",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-52:/raw/dog.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\color_selector_ic.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\color\\selector_ic.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_help.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\help.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\menu_menu_switch1.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\menu\\menu_switch1.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_s.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\s.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_k.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\k.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_hello.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\hello.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\layout_activity_stt.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\layout\\activity_stt.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_z.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\z.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_d.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\d.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_p.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\p.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_w.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\w.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_g.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\g.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_c.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\c.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_t.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\t.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_j.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\j.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\raw_space.mp4.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\raw\\space.mp4"
+    },
+    {
+        "merged": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-50:\\menu_menu_switch.xml.flat",
+        "source": "C:\\Users\\moon\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-52:\\menu\\menu_switch.xml"
+    }
+]
